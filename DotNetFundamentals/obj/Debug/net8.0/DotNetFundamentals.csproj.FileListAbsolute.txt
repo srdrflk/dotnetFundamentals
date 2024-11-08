@@ -16,3 +16,4 @@ C:\Users\Serdar_Filik\Desktop\DotNetBasicMentorProjects\CoreConsoleApp\DotNetFun
 C:\Users\Serdar_Filik\Desktop\DotNetBasicMentorProjects\CoreConsoleApp\DotNetFundamentals\bin\Debug\net8.0\ClassLibraryToHandle.pdb
 C:\Users\Serdar_Filik\Desktop\DotNetBasicMentorProjects\CoreConsoleApp\DotNetFundamentals\obj\Debug\net8.0\DotNetFundamentals.csproj.AssemblyReference.cache
 C:\Users\Serdar_Filik\Desktop\DotNetBasicMentorProjects\CoreConsoleApp\DotNetFundamentals\obj\Debug\net8.0\DotNetFu.FD18CD8B.Up2Date
+C:\Users\Serdar_Filik\Desktop\DotNetBasicMentorProjects\CoreConsoleApp\DotNetFundamentals\obj\Debug\net8.0\DotNetFundamentals.sourcelink.json

@@ -1,0 +1,1 @@
+C:\Users\Serdar_Filik\Desktop\DotNetBasicMentorProjects\CoreConsoleApp\HelloWorldMaui\HelloWorldMaui.csproj;x64

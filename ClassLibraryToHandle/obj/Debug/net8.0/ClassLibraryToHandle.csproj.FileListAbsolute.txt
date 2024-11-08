@@ -9,3 +9,4 @@ C:\Users\Serdar_Filik\Desktop\DotNetBasicMentorProjects\CoreConsoleApp\ClassLibr
 C:\Users\Serdar_Filik\Desktop\DotNetBasicMentorProjects\CoreConsoleApp\ClassLibraryToHandle\obj\Debug\net8.0\refint\ClassLibraryToHandle.dll
 C:\Users\Serdar_Filik\Desktop\DotNetBasicMentorProjects\CoreConsoleApp\ClassLibraryToHandle\obj\Debug\net8.0\ClassLibraryToHandle.pdb
 C:\Users\Serdar_Filik\Desktop\DotNetBasicMentorProjects\CoreConsoleApp\ClassLibraryToHandle\obj\Debug\net8.0\ref\ClassLibraryToHandle.dll
+C:\Users\Serdar_Filik\Desktop\DotNetBasicMentorProjects\CoreConsoleApp\ClassLibraryToHandle\obj\Debug\net8.0\ClassLibraryToHandle.sourcelink.json

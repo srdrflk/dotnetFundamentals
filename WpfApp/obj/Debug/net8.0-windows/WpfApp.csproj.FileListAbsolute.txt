@@ -22,3 +22,4 @@ C:\Users\Serdar_Filik\Desktop\DotNetBasicMentorProjects\CoreConsoleApp\WpfApp\bi
 C:\Users\Serdar_Filik\Desktop\DotNetBasicMentorProjects\CoreConsoleApp\WpfApp\bin\Debug\net8.0-windows\ClassLibraryToHandle.pdb
 C:\Users\Serdar_Filik\Desktop\DotNetBasicMentorProjects\CoreConsoleApp\WpfApp\obj\Debug\net8.0-windows\WpfApp.csproj.AssemblyReference.cache
 C:\Users\Serdar_Filik\Desktop\DotNetBasicMentorProjects\CoreConsoleApp\WpfApp\obj\Debug\net8.0-windows\WpfApp.csproj.Up2Date
+C:\Users\Serdar_Filik\Desktop\DotNetBasicMentorProjects\CoreConsoleApp\WpfApp\obj\Debug\net8.0-windows\WpfApp.sourcelink.json
