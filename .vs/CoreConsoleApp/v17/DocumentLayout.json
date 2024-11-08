@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\CoreConsoleApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DDA89D7A-0BB2-4E7B-8392-E0BC277AA8D4}|DotNetFundamentals\\DotNetFundamentals.csproj|c:\\users\\serdar_filik\\desktop\\dotnetbasicmentorprojects\\coreconsoleapp\\dotnetfundamentals\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DDA89D7A-0BB2-4E7B-8392-E0BC277AA8D4}|DotNetFundamentals\\DotNetFundamentals.csproj|solutionrelative:dotnetfundamentals\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8B4B1F40-C888-491E-A135-0B83234A2C5B}|WpfApp\\WpfApp.csproj|C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\CoreConsoleApp\\wpfapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8B4B1F40-C888-491E-A135-0B83234A2C5B}|WpfApp\\WpfApp.csproj|solutionrelative:wpfapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4B1F40-C888-491E-A135-0B83234A2C5B}|WpfApp\\WpfApp.csproj|c:\\users\\serdar_filik\\desktop\\dotnetbasicmentorprojects\\coreconsoleapp\\wpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8B4B1F40-C888-491E-A135-0B83234A2C5B}|WpfApp\\WpfApp.csproj|solutionrelative:wpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4B1F40-C888-491E-A135-0B83234A2C5B}|WpfApp\\WpfApp.csproj|c:\\users\\serdar_filik\\desktop\\dotnetbasicmentorprojects\\coreconsoleapp\\wpfapp\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B4B1F40-C888-491E-A135-0B83234A2C5B}|WpfApp\\WpfApp.csproj|solutionrelative:wpfapp\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDA89D7A-0BB2-4E7B-8392-E0BC277AA8D4}|DotNetFundamentals\\DotNetFundamentals.csproj|c:\\users\\serdar_filik\\desktop\\dotnetbasicmentorprojects\\coreconsoleapp\\dotnetfundamentals\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDA89D7A-0BB2-4E7B-8392-E0BC277AA8D4}|DotNetFundamentals\\DotNetFundamentals.csproj|solutionrelative:dotnetfundamentals\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CCC6F44B-7AC9-4A10-833A-55F69EC3EC55}|ClassLibraryToHandle\\ClassLibraryToHandle.csproj|C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\CoreConsoleApp\\classlibrarytohandle\\helloworldmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -53,36 +61,46 @@
               "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "HelloWorldManager.cs",
-              "DocumentMoniker": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\CoreConsoleApp\\ClassLibraryToHandle\\HelloWorldManager.cs",
-              "RelativeDocumentMoniker": "ClassLibraryToHandle\\HelloWorldManager.cs",
-              "ToolTip": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\CoreConsoleApp\\ClassLibraryToHandle\\HelloWorldManager.cs",
-              "RelativeToolTip": "ClassLibraryToHandle\\HelloWorldManager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T14:51:29.955Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\CoreConsoleApp\\WpfApp\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "WpfApp\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\CoreConsoleApp\\WpfApp\\MainWindow.xaml.cs",
               "RelativeToolTip": "WpfApp\\MainWindow.xaml.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAQwCMAAAAQAAAA",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAwCMAAABGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T14:38:56.74Z"
+              "WhenOpened": "2024-11-07T14:38:56.74Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\CoreConsoleApp\\WpfApp\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "WpfApp\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\CoreConsoleApp\\WpfApp\\AssemblyInfo.cs",
+              "RelativeToolTip": "WpfApp\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T12:47:29.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\CoreConsoleApp\\WpfApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\CoreConsoleApp\\WpfApp\\MainWindow.xaml",
+              "RelativeToolTip": "WpfApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-08T12:47:31.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\CoreConsoleApp\\DotNetFundamentals\\Program.cs",
               "RelativeDocumentMoniker": "DotNetFundamentals\\Program.cs",
@@ -92,6 +110,18 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-07T14:27:21.758Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HelloWorldManager.cs",
+              "DocumentMoniker": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\CoreConsoleApp\\ClassLibraryToHandle\\HelloWorldManager.cs",
+              "RelativeDocumentMoniker": "ClassLibraryToHandle\\HelloWorldManager.cs",
+              "ToolTip": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\CoreConsoleApp\\ClassLibraryToHandle\\HelloWorldManager.cs",
+              "RelativeToolTip": "ClassLibraryToHandle\\HelloWorldManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T14:51:29.955Z"
             }
           ]
         }
