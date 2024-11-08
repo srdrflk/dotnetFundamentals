@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DotNetFundamentals/1.0.0": {
+        "dependencies": {
+          "ClassLibraryToHandle": "1.0.0"
+        },
+        "runtime": {
+          "DotNetFundamentals.dll": {}
+        }
+      },
+      "ClassLibraryToHandle/1.0.0": {
+        "runtime": {
+          "ClassLibraryToHandle.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DotNetFundamentals/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClassLibraryToHandle/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

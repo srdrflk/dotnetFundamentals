@@ -1,0 +1,11 @@
+C:\Users\Serdar_Filik\Desktop\DotNetBasicMentorProjects\CoreConsoleApp\ClassLibraryToHandle\bin\Debug\net8.0\ClassLibraryToHandle.deps.json
+C:\Users\Serdar_Filik\Desktop\DotNetBasicMentorProjects\CoreConsoleApp\ClassLibraryToHandle\bin\Debug\net8.0\ClassLibraryToHandle.dll
+C:\Users\Serdar_Filik\Desktop\DotNetBasicMentorProjects\CoreConsoleApp\ClassLibraryToHandle\bin\Debug\net8.0\ClassLibraryToHandle.pdb
+C:\Users\Serdar_Filik\Desktop\DotNetBasicMentorProjects\CoreConsoleApp\ClassLibraryToHandle\obj\Debug\net8.0\ClassLibraryToHandle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serdar_Filik\Desktop\DotNetBasicMentorProjects\CoreConsoleApp\ClassLibraryToHandle\obj\Debug\net8.0\ClassLibraryToHandle.AssemblyInfoInputs.cache
+C:\Users\Serdar_Filik\Desktop\DotNetBasicMentorProjects\CoreConsoleApp\ClassLibraryToHandle\obj\Debug\net8.0\ClassLibraryToHandle.AssemblyInfo.cs
+C:\Users\Serdar_Filik\Desktop\DotNetBasicMentorProjects\CoreConsoleApp\ClassLibraryToHandle\obj\Debug\net8.0\ClassLibraryToHandle.csproj.CoreCompileInputs.cache
+C:\Users\Serdar_Filik\Desktop\DotNetBasicMentorProjects\CoreConsoleApp\ClassLibraryToHandle\obj\Debug\net8.0\ClassLibraryToHandle.dll
+C:\Users\Serdar_Filik\Desktop\DotNetBasicMentorProjects\CoreConsoleApp\ClassLibraryToHandle\obj\Debug\net8.0\refint\ClassLibraryToHandle.dll
+C:\Users\Serdar_Filik\Desktop\DotNetBasicMentorProjects\CoreConsoleApp\ClassLibraryToHandle\obj\Debug\net8.0\ClassLibraryToHandle.pdb
+C:\Users\Serdar_Filik\Desktop\DotNetBasicMentorProjects\CoreConsoleApp\ClassLibraryToHandle\obj\Debug\net8.0\ref\ClassLibraryToHandle.dll
